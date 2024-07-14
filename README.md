@@ -65,7 +65,6 @@ Trust Coconut Manufacturing and Product Management System
  The database schema consists of the following tables:
 
 - `users`: Stores user credentials including username and password.
-- `employees`: Stores employee details including name, address, and salary.
 - `seed_company`: Stores details about seed companies including company name, lot coordinates, plant brand, certifying agency, and variety.
 - `harvester`: Stores harvester details including harvester EA, lot ID, coordinates, variety, attributes, yield, harvester date, chemical application, date sold, manufacturer EA, and associated company farmer ID.
 - `manufacturer`: Stores manufacturer details including manufacturer EA, shipment date, shipment credentials, grain type, purchase date, variety, quantity, date sold, manufacturer date, product ID, product name, weight, and manufacturer name.
