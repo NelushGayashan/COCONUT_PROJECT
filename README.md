@@ -63,7 +63,13 @@ Trust Coconut Manufacturing and Product Management System
 
  ## Database Schema
  The database schema consists of the following tables:
- - `employees`: Stores manufacturing details including name, address, and salary.
+
+- `users`: Stores user credentials including username and password.
+- `employees`: Stores employee details including name, address, and salary.
+- `seed_company`: Stores details about seed companies including company name, lot coordinates, plant brand, certifying agency, and variety.
+- `harvester`: Stores harvester details including harvester EA, lot ID, coordinates, variety, attributes, yield, harvester date, chemical application, date sold, manufacturer EA, and associated company farmer ID.
+- `manufacturer`: Stores manufacturer details including manufacturer EA, shipment date, shipment credentials, grain type, purchase date, variety, quantity, date sold, manufacturer date, product ID, product name, weight, and manufacturer name.
+
 
  ## Screenshots
 ![Ceylon Coconut Foundation - Login - localhost](https://github.com/user-attachments/assets/c67ecbd6-75b4-4db1-97f1-930e4e5d54a8)
