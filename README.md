@@ -1,4 +1,4 @@
-Trust Coconut Manufacturing and Product Management System
+Coconut Manufacturing and Product Management System
 
 ## Table of Contents
  - [Overview](#overview)
